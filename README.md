@@ -6,5 +6,7 @@ Added more info and cool stuff.
 ### Sub
 more text in now.
 
-### I think im behind now
-asdasdasd
+
+### Jack
+I have added some more stuff.
+
